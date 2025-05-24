@@ -1,2 +1,2 @@
-ssh_key_name = "laoniu-pem"
+ssh_key_name = "private-key"
 db_password = "YourStrongPassword123!"
